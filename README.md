@@ -1,1 +1,1 @@
-# cogs105_finalproj_ADHD
+# cogs105_finalproj
